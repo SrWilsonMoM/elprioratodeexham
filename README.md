@@ -16,7 +16,7 @@ Campaña de cinco escenarios en dos actos, con prólogo, interludios y epílogo.
 |---|---|
 | **Reglamento de campaña** | [manuales/Reglamento_de_campana.pdf](manuales/Reglamento_de_campana.pdf). Las reglas para jugar en campaña, con las hojas genéricas para imprimir. |
 | **Manual de campaña** | [manuales/El_Priorato_de_Exham_manual_de_campana.pdf](manuales/El_Priorato_de_Exham_manual_de_campana.pdf). Componentes, preparación y reglas propias de esta campaña, con las fichas de ratas para recortar y las hojas para imprimir. Sin revelaciones de la historia. |
-| **Relato** | [relato/Las_profundidades_de_Exham.pdf](relato/Las_profundidades_de_Exham.pdf). *Las profundidades de Exham*, relato propio del autor de la campaña, escrito sin pretensiones y solo para dar contexto al acto 2. **Mejor leerlo después de jugar**: lo adelanta todo. |
+| **Relato** | [relato/Las_profundidades_de_Exham.pdf](relato/Las_profundidades_de_Exham.pdf). *Las profundidades de Exham*, relato propio del autor de la campaña, escrito sin pretensiones y solo para dar contexto al acto 2.
 
 Para descargar un PDF, abridlo y pulsad el botón de descarga, arriba a la derecha.
 
